@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版
+# AutoApiSecret-加密版1
 
 **添加了通过电报机器人`Telegram Bot`反馈运行结果（邮件会在运行失败时由系统提醒，所以就不加入提醒避免垃圾邮件困扰，电报大家也只是偶尔看看就挺好的），由于`This Check was skipped`原因（单纯的强迫症，不想有多余的记录），取消了原来的点击`star`判断，换用手动点击`Run workflow`运行测试**
 
